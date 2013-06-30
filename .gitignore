@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+.classpath
+.project
+proguard.cfg
+project.properties
+gen/*
+gen/
+bin/*
+bin/
+*~
