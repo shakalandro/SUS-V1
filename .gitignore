@@ -13,3 +13,4 @@ gen/
 bin/*
 bin/
 *~
+lint.xml
